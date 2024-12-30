@@ -1,0 +1,50 @@
+# #if se utiliza para ejecutar un bloque de codigo, si y solo si se cumple una determinada condicion (es utilizada para la toma de decisiones )
+# animal=input("dime un animal")
+# if animal =="perro": 
+#     print("-guau")
+# print("conozco pocos animales")
+
+# num=int(input("ingrese un entero: "))
+# if num<0:
+#     num=-num
+# print("su valor absoluto es", num)
+
+# #else esta en oposicion al condicional if 
+# animal=input("dime un animal: ")
+# if animal=="perro":
+#     print("-guau")
+# else:
+#     print("no conozco su sonido.")
+# print("conozco pocos animales.")
+
+# #elif se utiliza cuando no se puede aplicar ni if ni else
+# animal=input("dime un animal:")
+# if animal=="perro":
+#     print("-guau.")
+# elif animal=="gato":
+#     print("-miau.")
+# else:
+#     print("no conozco su sonido.")
+# print("conozco pocos animales.")
+
+# print("impares menores a 10")
+# x=1
+# while x <=10:
+#     print(x)
+#     x+=2
+
+entrada = input("¡hola! Introduce tu edad: ")
+edad = 0
+if entrada.isnumeric() : 
+    edad = int(entrada)
+else :
+    print("Dato ioncorrecto. Debes introducir un numero")
+    exit()
+if edad <= 0 :
+    print("!woooow! Que joven. Pero lo siento, eso no es posible ")
+elif edad > 115 :
+    print("!VAYA¡ ¿Cómo le haces para vivir tanto? No te creo, mejor intentalo de nuevo ")
+elif edad < 18 :
+    print("Eres menor de edad, así que no puees comprar tu cigarro")
+else :
+    print("Eres mayor de edad. Toma tu cigarro")
