@@ -31,18 +31,5 @@ print(len(numeros))
 print(numeros.count(5))
 
 
-# numeros.count(1)
-# print(numeros.count(1)) #para saber cuantas veces un elemento esta repetido dentro de la lista
-
-# #Diccionarios llevan llaves 
-# d1 = dict[ 
-#     ("Alvaro","Aculco")
-#     ("Carlos","Bogota")
-#     ("Sergio","Guanajuato")
-#     ("Josue","Guadalajara")
-#     ("Elker","Monterrey")
-#     ("Jose","Mexico")
-# ]
-# print(d1)
 
 

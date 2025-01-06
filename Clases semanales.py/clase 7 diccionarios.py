@@ -6,7 +6,7 @@
 # }
 # print(d1)
 
-#Diccionarios llevan llaves 
+#este es otro ejemplo de diccionario que puede no llevar llavez, pero si parentesis y corchete.
 d1 = dict([ 
     ("Alvaro","Aculco"),
     ("Carlos","Bogota"),
@@ -14,8 +14,7 @@ d1 = dict([
     ("Josue","Guadalajara"),
     ("Elker","Monterrey"),
     ("Jose","Mexico"),
-]
-)
+])
 print(d1)
 
 # #crear un diccionario vacio para la agenda 
