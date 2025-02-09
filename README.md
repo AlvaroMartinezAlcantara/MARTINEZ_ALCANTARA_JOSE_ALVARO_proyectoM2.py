@@ -5,7 +5,8 @@
 - Actualmente cursando Fundamento de Python
 
 ## Trabajos entregados:
-- Entregando Longitud de una frase
-##### En este codigo utilizamos la funcion evaluar_longitud_palabra() para determionar la cantidad de caracteres que tiene un palabra y aplicamos condicionales if y elif para determinar si la palabra escrita era correcta, así como para imprir el codigo correspondiente, asi como  la impresion de los codigos si tenia mas o menos palabras
-- Entregando Encuentra el cuadrante
-##### En este codigo, me guie con el demo que nos brindaron, encontre un error al correrlo, corregi el cuadrante cuatro y en lugar de usar varios if, los sustitui por elif para crear condicionales mas simples.
+- Entregando Simulacion máquina Galton 
+##### En este proyecto  se realizo la simulacion de una maquina galton desde python. donse se simula que 3000 canicas caen y se situan en doce niveles aleatoreamente. para formar una campana Gauciana para que al final se grafique mediante un histograma.
+
+## Reflexion
+- Como lo mencionaron desde un principio, si puedes imaginarlo, puedes crearlo, pero a decir verdad aun me cuesta mucho aprender y repasar todo los que llevamos. No es que no le entienda, sino que por el trabajo y actividades diarias me cuenta mucho repasar las actividades, por lo que me apoye mucho de la inteligencia artificial, en la realizacion del proyecto. Aum asi sigo motivado en aprender algo que nunca paso por mi cabeza entender.
