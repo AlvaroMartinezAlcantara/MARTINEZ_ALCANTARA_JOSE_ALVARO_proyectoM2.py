@@ -2,7 +2,7 @@
 def evaluar_longitud_palabra():
 #solicitamos a la persona que ingrese una palabra 
     palabra = input("Ingresa una palabra: ")
-#medimos la longitud de la palabra ingresada
+#medimos la longitud de la palabra ingresada con len(palabra)
     longitud = len(palabra)
 #si la palabra tiene de 4 a 8 caracteres, es correcta y se imprime el mensaje " La palabra es correcta"
     if 4 <= longitud <= 8:
